@@ -22,7 +22,7 @@ Backend developer from Ukraine. I build reliable RESTful APIs with Django/DRF, f
 * **Backend:** Python, Django, DRF
 * **Databases:** PostgreSQL, Redis
 * **DevOps:** Docker, Docker-compose, Git
-* **Asynchronous Tasks:** Celery, Flower
+* **Asynchronous Tasks:** Celery
 
 ---
 

@@ -2,9 +2,9 @@
 
 **Python Backend Developer | Computer Science Student**
 
-Backend developer from Ukraine. I build reliable RESTful APIs with Django/DRF, focusing on query optimization, database efficiency, and task automation. 
+I build reliable RESTful APIs with Django/DRF, focusing on query optimization, database efficiency, and task automation. 
 
-🚀 **Currently:** Open to Junior Backend Developer opportunities.
+🚀 **Currently:** Open to Junior roles
 
 ---
 

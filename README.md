@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Yaroslav 👋
 
-<!--
-**Kostenko-Yaroslav/kostenko-yaroslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Backend Developer | Computer Science Student**
 
-Here are some ideas to get you started:
+Backend developer from Ukraine. I build reliable RESTful APIs with Django/DRF, focusing on query optimization, database efficiency, and task automation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Currently:** Open to Junior Backend Developer opportunities.
+
+---
+
+### 🔭 Key Project: [Booking Service](https://github.com/Kostenko-Yaroslav/Booking-Service)
+*A robust REST API for room reservations with a focus on data integrity.*
+
+* **Key features:** Double-booking protection at the PostgreSQL level, automated PDF invoices via Celery.
+* **Tech highlights:** JWT Auth, Redis caching, Docker-compose environment.
+* **[Live demo](https://yaroslav-kostenko.dev/docs)**
+
+---
+
+### 🛠 Tech Stack
+
+* **Backend:** Python, Django, DRF
+* **Databases:** PostgreSQL, Redis
+* **DevOps:** Docker, Docker-compose, Git
+* **Asynchronous Tasks:** Celery, Flower
+
+---
+
+### 📫 Contact me:
+[Telegram](https://t.me/kostenko2) | [Email](mailto:yaroslavkostenko34@gmail.com)
